@@ -1,1 +1,1 @@
-# dft-scripts
+# DFT-scripts
